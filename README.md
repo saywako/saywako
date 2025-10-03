@@ -1,7 +1,7 @@
  ## 👩‍💻 Gabriella Prado
  **`Estudante de TI em Técnico de Desenvolvimento de Sistemas`**
  
- Me chamo Gabriella Prado, tenho 19 anos e sou natural da Baixada Santista. Com o curso técnico de Desenvolvimento de Sitemas e tenho experiência em programação e redes, áreas que são minha principal base profissional. Sou apaixonada e técnologia e tudo que à remete.
+ Me chamo Gabriella Prado, tenho 19 anos e sou natural da Baixada Santista. Com o curso técnico de Desenvolvimento de Sitemas e tenho experiência em programação e redes, áreas que são minha principal base profissional. Sou apaixonada em técnologia e tudo que à remete.
 
  Atualmente, estou dando meus primeiros passos como Social Media, cuidando de redes sociais de pessoas e empresas, mas meu foco principal segue sendo o crescimento na área de tecnologia e programação.
 
