@@ -1,4 +1,5 @@
- ## Oii eu sou a Gabriella Prado, estudante de TI e formada em Técnico de Desenvolvimento de Sistemas. Tenho experiência em programação e redes, áreas que são minha principal base profissional.
+ ## 👩‍💻 Oii, sou a Gabriella Prado!
+ Estudante de TI e formada em Técnico de Desenvolvimento de Sistemas. Tenho experiência em programação e redes, áreas que são minha principal base profissional.
 
 Atualmente, estou dando meus primeiros passos como Social Media, cuidando de redes sociais de pessoas e empresas, mas meu foco principal segue sendo o crescimento na área de tecnologia e programação.
 
@@ -9,7 +10,7 @@ Atualmente, estou dando meus primeiros passos como Social Media, cuidando de red
  ##
  
 <div> 
-  <a href= target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href= target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href= "https://www.instagram.com/wakella_"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href= "https://discord.com/users/538563143383777280"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:gabinathcarol@gmail.com" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
